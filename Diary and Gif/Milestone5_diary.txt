@@ -1,0 +1,24 @@
+My biggest issue was with my understanding of how each part of the program worked. I feel as though, with my current level of 
+knowledge, it is a challenge to use other programmer's code. That being said with enough time I was able to cobble something 
+together. It took me a while to figure out that I needed to use new if I didn't want things to be a pointer in 
+C#. I feel as though there are a lot of little nuances to using each programming language, that I will learn with time. If 
+the idea that everything was a pointer in C# had been explained to me upright, I likely would not have been able to truely understand
+what that ment until I ran into it. Now I know and will likely not forget any time soon. 
+
+I was unable to figure out why the pathing highlights stopped after a few squares. I feel as though it had something to do with
+a weight limit, which seems strange to me as I couldn't find anything in the code indicating that. It always seemed to stop wanting
+to go past around a weight of 10 or 11. 
+
+I will admit that I did not fully understand what dijkstra's agorithim until about 3 days ago, and I still feel as though
+I understand very little about it. 
+
+I personally feel unsatisfied with this project as I had a few problems that I had to fix through a lot of shoddy work arounds
+(maybe why the highlights stop but I can't see how). I don't understand why the things that weren't working weren't working, and
+I never found an elegant way of fixing them, so I feel like I could have done more. However I am out of time and honestly feeling
+really tired of working on this. I think that my willingness to keep working past frustration is suffering due to the social 
+isolation. I put quite a few hours into this and I am not really happy with my end results as I feel they don't reflect the 
+work and effort I put in, but that is life I guess. The only thing I can do, is do better next time. 
+
+All of that being said, I don't feel as though this project was a complete loss for me. I got a lot of practice in and can
+say, while I don't fully understand everything I worked on, I will be a better programmer for the effort I put in on this 
+project. Under normal circumstances, I probably would have loved this project. 
